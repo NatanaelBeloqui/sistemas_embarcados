@@ -1,9 +1,9 @@
 # Sistema de Iluminação Automática Inteligente
 
 ## Integrantes da Equipe
-- [Nome Completo do Integrante 1]
-- [Nome Completo do Integrante 2]
-- [Nome Completo do Integrante 3]
+- Natanael
+- Miguel
+- Luiz
 
 ## Objetivo do Projeto
 Desenvolver um sistema embarcado que controla automaticamente a iluminação de um ambiente baseado na presença de pessoas e luminosidade, além de monitorar e alertar sobre condições de temperatura através de LEDs indicadores e buzzer.
