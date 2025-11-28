@@ -170,6 +170,3 @@ O sistema acende a iluminação principal (LED RGB) apenas quando detecta presen
 
 ## Licença
 Este projeto foi desenvolvido para fins educacionais como parte da disciplina de Sistemas Embarcados.
-
----
-**Desenvolvido com Arduino Uno | Kit Iniciante v8 RoboCore**
